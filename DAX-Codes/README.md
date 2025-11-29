@@ -10,6 +10,7 @@ Each code/use case is documented and organized by macro categories that I define
 | Topic | Description | Link |
 |---------|-------------|------|
 | Filter by Measures | Control measure that allows users to filter visuals by quantitative measures (e.g., Total Amount) | [Link](https://github.com/SteCiu01/DAX/tree/main/DAX-Codes/Filter-by-Measures) |
+| Slicers filtering other slicers | Control measure that removes “dead” slicer values and avoids confusing blank visuals | [Link](https://github.com/SteCiu01/DAX/tree/main/DAX-Codes/Slicer-Filtering-Other-Slicers) |
 
 #### Virtual Table Measures: measures that relies on in-code virtual tables, and that are used for complex/custom use cases
 
