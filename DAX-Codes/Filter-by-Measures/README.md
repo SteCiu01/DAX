@@ -13,9 +13,9 @@ This is possible using the Power BI default filter pane; however, it is not so i
 <img width="50%"  alt="image" src="https://github.com/user-attachments/assets/ad264200-3bc1-47d5-9009-d0abd652fd06" />
 <br><br>
 
-In the image above, there is our visual, and we want to set up a slicer that will let users decide which customers to keep in the visual based on a range of the Customer Total Position of their choice. 
+In the image above, there is our visual, and we want to set up a slicer that will let users decide which customers (at parent level) they wil keep in the visual based on a range of the Customer Total Position of their choice. 
 
-Requirement: we **want to keep only customers (at parent level) with a positive position**; therefore, we would want to have in the visual only customers with Parent_IDs P4 and P1.
+For example, if a user decides to keep only customers with a positive position at parent level we would want to display in the visual only customers with Parent_IDs P4 and P1.
 
 ## 1 - Create 2 Tables (not connected to the data model) to use in the Slicers
 
