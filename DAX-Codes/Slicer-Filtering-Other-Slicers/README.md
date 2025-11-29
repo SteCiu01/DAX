@@ -1,4 +1,4 @@
-# Slicers Filtering Other Slicers
+# Slicers Filtering Other Slicers based on available data
 
 ### Basic Situation: in the data model you have a fact table, and several dim tables
 
