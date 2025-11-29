@@ -1,4 +1,4 @@
-# Filter by Measures: a simple and replicable DAX technique
+# Filter a visual by the amount range of a measure
 
 With a simple control DAX measure is possible to filter an amount range using slicers, in a Power BI report.
 
