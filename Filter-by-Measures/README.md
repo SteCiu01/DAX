@@ -97,8 +97,5 @@ Selecting the range, only the P4 and P1 customers are visible in the visual (it 
 
 <img width="50%" alt="image" src="https://github.com/user-attachments/assets/bbb5aea9-d188-401b-97b2-dfd5e5dd4374" />
 
-I hope this technique was useful. For any questions, don’t hesitate to leave a comment below or reach out to me. 
-
-
 
 
