@@ -37,7 +37,7 @@ Do not forget to create a rank column that you will need to use to sort the “F
 
 ## 2 - Set Up the Control Measure
 
-With this measure, you need to reproduce the same setup of the visual that you want to filter. In this specific case, we are rolling up at the Parent ID level, as the goal is to filter based on the Total Customer Position. Additional comments are provided within the measure.
+With this measure, you need to reproduce the same setup of the visual that you want to filter but in this specific case, we are setting it up to work at the Parent ID level, as the goal is to filter based on the Total Customer Position for that level. Additional comments are provided within the measure.
 
 ```
 FilterByAmount = 
