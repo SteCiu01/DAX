@@ -161,7 +161,7 @@ FILTER(
             "TotalPosition", SUM(MyCompanyPositions[Position_USD])
         ),
 
-        [TotalPosition] >= MinInput && [TotalPositionCID] <= MaxInput
+        [TotalPosition] >= MinInput && [TotalPosition] <= MaxInput
 )
 
 VAR CHILD_List = // create the list with selectcolumns function
@@ -176,6 +176,7 @@ VAR CHILD_Filtering = // give to the IDs in the list value of 1 (later in the ma
         1,
         0
     )
+
 
 RETURN
 IF(
