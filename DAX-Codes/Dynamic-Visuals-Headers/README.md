@@ -21,3 +21,4 @@ When only few items are selected (image below)
 
 <img width="60%" alt="image" src="https://github.com/user-attachments/assets/263e163e-31bf-4e76-87d8-cdc2ffa82d8b" />
 
+Of course this measure is a starting point but the logic could be further enriched, depending on the use case (e.g., limiting the number of concatenated item)
