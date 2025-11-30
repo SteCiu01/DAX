@@ -28,5 +28,5 @@ These are calculations that rely on in-code virtual tables, and that are used fo
 
 | Topic | Description | Link |
 |---------|-------------|------|
-| Row Level Conditional Logic in Virtual Tables | Perform a logical calculation at a defined level of hierarchical granularity | [Link](https://github.com/SteCiu01/DAX/tree/main/DAX-Codes/Row-Level-Conditional-Logic-in-Virtual-Tables) |
+| Row Level Conditional Logic with Virtual Tables | Perform a logical calculation at a defined level of hierarchical granularity | [Link](https://github.com/SteCiu01/DAX/tree/main/DAX-Codes/Row-Level-Conditional-Logic-in-Virtual-Tables) |
 
