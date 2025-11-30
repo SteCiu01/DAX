@@ -24,6 +24,7 @@ Then, create the formatting measure:
 
 ```
 Bar Chart Formatting = 
+
 VAR _TopN = 2
 
 VAR _BottomN = 2
@@ -47,8 +48,11 @@ CALCULATE(
     DISTINCTCOUNT('Table'[Category]),
     ALLSELECTED('Table'[Category]) -- remove in-visual row level filtering
 )
+
 VAR _Top = BarChartSetUpDesc <= _TopN
+
 VAR _Bottom = BarChartSetUpDesc > TotalCategories - _BottomN
+
 RETURN
     SWITCH(
         TRUE(),
