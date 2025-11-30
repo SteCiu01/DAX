@@ -6,4 +6,4 @@ All examples have been generalized, and each entry includes a short description 
 
 [🧮 DAX Codes](https://github.com/SteCiu01/DAX/tree/main/DAX-Codes)
 
-[⚙️ DAX UDFs](https://github.com/SteCiu01/DAX/tree/main/DAX-UDFs)
+[🧩 DAX UDFs](https://github.com/SteCiu01/DAX/tree/main/DAX-UDFs)
