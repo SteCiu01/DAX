@@ -12,6 +12,8 @@ Measures to use when creating custom formatting logics
 | Topic | Description | Link |
 |---------|-------------|------|
 | Colour Measures |  Easy access to colours when building custom formatting logics | [Link](https://github.com/SteCiu01/DAX/blob/main/DAX-Codes/Colour-Measures/README.md) |
+| Conditional Colour Based on Slicer Selection | Simple conditional colour logics | [Link](https://github.com/SteCiu01/DAX/blob/main/DAX-Codes/Conditional-Colour-Simple-Case/README.md) |
+| Conditional TopN Colour Rank |  Use RANKX for highlighting TOP-N or BOTTOM-N categories | [Link](https://github.com/SteCiu01/DAX/blob/main/DAX-Codes/Conditional-TOPN-Colour-RANKX/README.md) |
 
 #### Control
 
@@ -19,8 +21,8 @@ Measures to use within the visuals' filters. They let developers control what is
 
 | Topic | Description | Link |
 |---------|-------------|------|
-| Filter by Measures | Control measure that allows users to filter visuals by quantitative measures (e.g., Total Amount) | [Link](https://github.com/SteCiu01/DAX/tree/main/DAX-Codes/Filter-by-Measures) |
-| Slicers filtering other slicers | Control measure that removes “dead” slicer values and avoids confusing blank visuals | [Link](https://github.com/SteCiu01/DAX/tree/main/DAX-Codes/Slicer-Filtering-Other-Slicers) |
+| Filter by Measures | Control measure that allows users to filter visuals by quantitative measures (e.g., Total Amount) | [Link](https://github.com/SteCiu01/DAX/blob/main/DAX-Codes/Filter-by-Measures/README.md) |
+| Slicers filtering other slicers | Control measure that removes “dead” slicer values and avoids confusing blank visuals | [Link](https://github.com/SteCiu01/DAX/blob/main/DAX-Codes/Slicer-Filtering-Other-Slicers/README.md) |
 
 #### Virtual Table Measures
 
@@ -28,5 +30,5 @@ These are calculations that rely on in-code virtual tables, and that are used fo
 
 | Topic | Description | Link |
 |---------|-------------|------|
-| Row Level Conditional Logic with Virtual Tables | Perform a logical calculation at a defined level of hierarchical granularity | [Link](https://github.com/SteCiu01/DAX/tree/main/DAX-Codes/Row-Level-Conditional-Logic-in-Virtual-Tables) |
+| Row Level Conditional Logic with Virtual Tables | Perform a logical calculation at a defined level of hierarchical granularity | [Link](https://github.com/SteCiu01/DAX/blob/main/DAX-Codes/Row-Level-Conditional-Logic-in-Virtual-Tables/README.md) |
 
