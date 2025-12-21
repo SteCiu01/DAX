@@ -1,4 +1,4 @@
-# Filter Context and Data Model Design in DAX
+# Filter Context and Data Model Design
 
 ### The Problem: Direct Fact Table Filtering
 
