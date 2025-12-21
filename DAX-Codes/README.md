@@ -1,14 +1,14 @@
 ## 🧮 DAX Codes Overview
 
-This repository is a curated collection of my most frequently used and production-tested DAX codes, together with few DAX guidelines/best practices worth sharing.
+This repository is a curated collection of my most frequently used and production-tested DAX codes, together with few DAX and data modelling guidelines/best practices worth sharing.
 
 It is designed as my reference library for building semantic models, to avoid going every time in previous models to retrieve old expressions.
 
 Each code/use case is documented and organized by macro categories that I defined based on the code's nature and usage.
 
-#### Formatting Measures
+#### Formatting
 
-Measures to use when creating custom formatting logics.
+DAX techiques to use when creating custom formatting logics.
 
 | Topic | Description | Link |
 |---------|-------------|------|
@@ -19,7 +19,15 @@ Measures to use when creating custom formatting logics.
 | Dynamic Visuals Headers |  Visual header that change based on slicers selection | [Link](https://github.com/SteCiu01/DAX/blob/main/DAX-Codes/Dynamic-Visuals-Headers/README.md) |
 | In-Measure SVGs | Use SVG images within measures to enhance your visualisations | [Link](https://github.com/SteCiu01/DAX/blob/main/DAX-Codes/In-Measure-SVGs/README.md) |
 
-#### Time Intelligence Measures
+#### Filter Context
+
+Guidelines on how to handle with DAX complex filtering
+
+| Topic | Description | Link |
+|---------|-------------|------|
+| Filter Context and Data Model Design in DAX | Leverage data modelling to handle page-level, slicer and in-measure filtering on the same column | [Link](https://github.com/SteCiu01/DAX/blob/main/DAX-Codes/Data-Model-for-Filter-Contex-Measures/README.md)
+
+#### Time Intelligence
 
 Collection of few important time intelligence measures together with and optimised simple calendar table that guarantees them to work properly.
 
@@ -30,7 +38,7 @@ In fact, a pre-requisite for time intelligence functions to work is to have a ca
 | Create the Calendar Table | M-Code for creating a complete calendar table for the semantic model. Includes a future day for proper SPLY functions | [Link](https://github.com/SteCiu01/DAX/blob/main/DAX-Codes/Create-Calendar-Table/README.md) |
 | Handy Time Intelligence Functions | Some time intelligence functions, ready to be imported through DAX Query View | [Link](https://github.com/SteCiu01/DAX/blob/main/DAX-Codes/Handy-Time-Intelligence-Functions/README.md) |
 
-#### Control Measures
+#### Control
 
 Measures to use within the visuals or in the control buttons. They let developers control what is displayed in the visuals or what users will be clicking based on some criteria (e.g., username).
 
@@ -41,7 +49,7 @@ Measures to use within the visuals or in the control buttons. They let developer
 | Top-N Selection| Coming Soon | - |
 | Page Level Security | Coming Soon | - |
 
-#### Virtual Tables Measures
+#### Virtual Tables
 
 These are examples of calculations that rely on in-code virtual tables, and that are used for complex/custom use cases, that would not be possible to successfully achieve with simple measures.
 
