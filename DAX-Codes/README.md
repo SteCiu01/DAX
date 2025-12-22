@@ -21,7 +21,7 @@ DAX techiques to use when creating custom formatting logics.
 
 #### Filter Context
 
-Guidelines on how to handlecomplex filtering with DAX.
+Guidelines on how to handle complex filtering with DAX.
 
 | Topic | Description | Link |
 |---------|-------------|------|
