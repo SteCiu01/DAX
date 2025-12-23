@@ -1,4 +1,6 @@
-# Dynamic Visuals Headers or Cards
+# Dynamic Visuals Headers
+
+Generate visual titles and headers that automatically adapt to slicer selections
 
 #### Template for creating dynamic visuals headers or cards that display all the selected items, or a fix sentence in case all or nothing is selected.
 
