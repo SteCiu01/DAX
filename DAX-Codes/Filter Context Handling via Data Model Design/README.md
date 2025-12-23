@@ -1,5 +1,7 @@
 # Filter Context Handling via Data Model Design
 
+Use data modelling techniques to consistently manage page-level, visual-level, slicer-level, and in-measure filtering on the same column.
+
 ### The Problem: Direct Fact Table Filtering
 
 Using fact table columns in slicers is common when you don't have a dedicated dimension table. However, this approach creates critical issues when those same columns appear in CALCULATE filter expressions.
