@@ -1,6 +1,6 @@
-## 🧮 DAX Codes Overview
+## 🧮 DAX Codes and Best Practice
 
-This repository is a curated collection of my most frequently used and production-tested DAX codes, together with few DAX and data modelling guidelines/best practices.
+This repository is a curated collection of my most frequently used and production-tested DAX codes, together with data modelling and filtering guidelines / best practices.
 
 It is designed as my reference library for building semantic models and reports, to avoid going every time in previous models to retrieve old expressions.
 
@@ -53,10 +53,10 @@ Control measures used in visuals and navigation elements to dynamically manage w
 | Topic | Description | Link |
 |---------|-------------|------|
 | Slicers Filtering Other Slicers | Use control measures to remove invalid slicer values and prevent misleading or empty visuals | [Link](https://github.com/SteCiu01/DAX/blob/main/DAX-Codes/Slicer-Filtering-Other-Slicers/README.md) |
-| Measures Controlling Slicer Values | Synchronise slicers and visuals to avoid slicers displaying values excluded by visual-level logic | [Link](https://github.com/SteCiu01/DAX/blob/main/DAX-Codes/Measures-Filtering-Slicers/README.md) |
-| Visual Filtering by Measures | Enable users to filter visuals dynamically based on quantitative measures (e.g. revenue, margin, volume) | [Link](https://github.com/SteCiu01/DAX/blob/main/DAX-Codes/Filter-by-Measures/README.md) |
-| Dynamic Top-N Selection | Create a numeric input slicer that dynamically controls the Top-N entities displayed in a visual | [Link](https://github.com/SteCiu01/DAX/blob/main/DAX-Codes/Top-N-Selection/README.md) |
-| Page-Level Access Control (UI-Based) | Restrict navigation to specific report pages for non-authorised users and redirect them to an access request page | [Link](https://github.com/SteCiu01/DAX/blob/main/DAX-Codes/Page-Level-Security/README.md) |
+| Measures Controlling Slicer Values | Synchronise slicers and visuals to avoid slicers displaying values excluded by visual-level logic | [Link](https://github.com/SteCiu01/DAX/blob/main/DAX-Codes/Measures%20Controlling%20Slicer%20Values/README.md) |
+| Visual Filtering by Measures | Enable users to filter visuals dynamically based on quantitative measures (e.g. revenue, margin, volume) | [Link](https://github.com/SteCiu01/DAX/blob/main/DAX-Codes/Visual%20Filtering%20by%20Measures/README.md) |
+| Dynamic Top-N Selection | Create a numeric input slicer that dynamically controls the Top-N entities displayed in a visual | [Link](https://github.com/SteCiu01/DAX/blob/main/DAX-Codes/Dynamic%20Top-N%20Selection/README.md) |
+| Page-Level Access Control (UI-Based) | Restrict navigation to specific report pages for non-authorised users and redirect them to an access request page | [Link](https://github.com/SteCiu01/DAX/blob/main/DAX-Codes/Page-Level%20Access%20Control%20(UI-Based)/README.md) |
 
 ---
 
