@@ -1,5 +1,7 @@
 # Conditional Colour Driven by Slicer Selection
 
+Apply dynamic colour formatting based on slicer-driven user selections
+
 ### Simple Scenarios Templates
 
 #### Hide/unhide a button or an object
