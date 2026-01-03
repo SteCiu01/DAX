@@ -157,7 +157,7 @@ After that go to: - Visual Format > Data Label > Value - here you can switch the
 
 Output:
 
-<img width="125" height="162" alt="image" src="https://github.com/user-attachments/assets/b8a292dd-42e6-417e-a673-600c469c0360" />
+<img width="1006" height="163" alt="image" src="https://github.com/user-attachments/assets/6569bc71-2cd3-405d-a9c6-c9d26a3a4ded" />
 
 You can have both millions and thousands for the same measure. This is very flexible in situations where you have very big differences. 
 
