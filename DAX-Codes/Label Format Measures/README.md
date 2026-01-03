@@ -1,6 +1,6 @@
 # Label Format Measures
 
-Technique to gain maximum customization and flexibility for what displayed in data labels, getting rid of the Auto, Thousands, Million, etc.. default settings.
+Technique to achieve maximum customization and full control over data-label display, completely replacing the default Auto / Thousands / Millions behavior.
 
 ### Situation: 
 
