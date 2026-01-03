@@ -159,8 +159,8 @@ Output:
 
 <img width="1006" height="163" alt="image" src="https://github.com/user-attachments/assets/6569bc71-2cd3-405d-a9c6-c9d26a3a4ded" />
 
-You can have both millions and thousands for the same measure. This is very flexible in situations where you have very big differences. 
+You can have both millions and thousands for the same measure and this comes very handy in situations where you have very big differences.
 
-For instance imagine one month you have 40K and all the others are on millions scale, and you set up decimal 1. 
-
-You would have something like: 2.4M, 1.2M, etc., then: 0.0M - with this new formatting measure you would have: 2.4M, 1.2M, 40.2K, etc., ...
+For instance imagine one month you have 40K and all the others are on millions scale, and you set up decimal 1.
+- Using the value formatting available in the visuals formatting you would have something like: 2.4M, 1.2M, 0.0M 
+- Using this new formatting technique you would have: 2.4M, 1.2M, 40.2K
